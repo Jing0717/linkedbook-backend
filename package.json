@@ -18,6 +18,7 @@
     "dotenv": "^16.0.0",
     "ejs": "~2.6.1",
     "express": "~4.16.1",
+    "heroku": "^7.63.0",
     "http-errors": "~1.6.3",
     "image-size": "^1.0.1",
     "imgur": "^2.2.0",
